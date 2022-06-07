@@ -1,2 +1,3 @@
-# DIO-Desafios
-Repositório de desafios do DIO
+# DIO Desafios Bootcamp
+
+Neste repositório serão colocados todos os desafios dos Bootcamps do DIO
