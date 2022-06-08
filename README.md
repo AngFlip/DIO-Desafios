@@ -1,0 +1,3 @@
+These files are the result of an exercise proposed on the DIO Bootcamp. The module was about HTML/CSS, introducing Flexbox, and the request was to re-create the Instagram Login screen as a responsive layout for diverses sizes.
+
+Estes arquivos são resultado do Bootcamp do DIO. O módulo sobre HTML/CSS propôs um projeto onde deveria ser replicado o layout da página de login do Instagram e deixá-la responsiva.
